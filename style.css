@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid red;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid red;
+}
+
+.texto1{
+    
+}
+
+footer{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    border: 1px solid red;
+    position: absolute;
+    bottom: 0;
+}
+
+footer span{
+    color: rgb(112, 112, 112);
+}
