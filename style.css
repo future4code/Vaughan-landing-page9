@@ -1,8 +1,14 @@
+/* página inicial */
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    width:1280px;
+ }
 
 header{
     padding: 20px;
@@ -27,7 +33,7 @@ main{
 
 footer{
     padding: 20px;
-    width: 100%;
+    width: 1280px;
     display: flex;
     gap: 20px;
     flex-direction: column;
@@ -41,3 +47,8 @@ footer{
 footer span{
     color: rgb(112, 112, 112);
 }
+
+/* contato */
+
+
+/* sobre nós */
