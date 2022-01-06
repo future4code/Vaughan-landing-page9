@@ -50,5 +50,31 @@ footer span{
 
 /* contato */
 
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.contato {
+    width: 100%;
+    max-width: 500px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.campo {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1;
+}
+
+textarea {
+    height: 150px;
+}
+
+
 
 /* sobre nós */
