@@ -164,5 +164,42 @@ footer span{
 
 /* contato */
 
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.contato {
+    width: 100%;
+    max-width: 500px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.campo {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1;
+}
+
+textarea {
+    height: 150px;
+}
+
+
 
 /* sobre nós */
+
+.anuncio {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding: 18px;
+    border: 1px solid rgb(60, 59, 63);
+    background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
