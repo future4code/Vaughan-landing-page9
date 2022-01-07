@@ -9,7 +9,7 @@ Integrantes: Fillipe Dias, Jardel Nepomuceno, Anderson Felix
 ![alt text](https://i.postimg.cc/T18y7vxk/index.png)
 
 ### Página Sobre nós:
-![alt text](https://i.postimg.cc/5yRFBQ0C/sobrenos.png)
+![alt text](https://i.postimg.cc/0yj1Xtfm/sobrenos2.png)
 
 ### Página Contato:
 ![alt text](https://i.postimg.cc/zf63vYyJ/contato.png)
