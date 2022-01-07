@@ -23,7 +23,7 @@
         <input class="campo" name="nome" placeholder="Nome">
         <input class="campo" name="email" placeholder="E-mail">
         <textarea class="campo" name="mensagem" placeholder="Digite sua mensagem aqui."></textarea>
-        <input class="campo" type="submit" value="Enviar">
+        <input class="campo" type="button" value="Enviar" onclick="exibeAlert()" />
       </form>
     </div>
   </section>
@@ -41,6 +41,13 @@
       <p>© Copyright 2022 - 4food</p>
   </footer>
 
+  <script>
+  
+  function exibeAlert(){
+    alert("Formulário enviado com sucesso!")
+  }
 
-  </body>
+</script>
+
+</body>
 </html>
