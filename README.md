@@ -1,4 +1,4 @@
-# Link do surge: orange-picture.surge.sh
+# Link do surge: tidy-hobbies.surge.sh
 
 ## Informações:
 Landing page da 4food, projeto em grupo da Turma Vaughan - Labenu
@@ -6,10 +6,10 @@ Integrantes: Fillipe Dias, Jardel Nepomuceno, Anderson Felix
 
 ## Imagens do site:
 ### Página Index:
-![alt text](https://i.postimg.cc/hPdzKdDm/Screenshot-2022-01-06-at-16-55-49-Projeto-Landing-Page.png)
+![alt text](https://i.postimg.cc/T18y7vxk/index.png)
 
 ### Página Sobre nós:
-![alt text](https://i.postimg.cc/3Ng6njVG/PROEJTO.png)
+![alt text](https://i.postimg.cc/5yRFBQ0C/sobrenos.png)
 
 ### Página Contato:
-![alt text](https://i.postimg.cc/QtT17VBk/Captura-da-pagina-Contato.jpg)
+![alt text](https://i.postimg.cc/zf63vYyJ/contato.png)
