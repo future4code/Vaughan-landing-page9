@@ -1,4 +1,4 @@
-# Link do surge: callous-rod.surge.sh
+# Link do surge: sudden-tin.surge.sh
 
 ## Informações:
 Landing page da 4food, projeto em grupo da Turma Vaughan - Labenu
