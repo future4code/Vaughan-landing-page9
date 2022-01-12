@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <link rel="stylesheet" href="style.css">
+  <title>Contato</title>
+</head>
+<body>
+
+    <header>
+        <a href="index.html"><img src="assets/logo.PNG" alt="Logo" class="logo"></a>
+        <a href="contato.html" class="contato">Contato</a>
+        <a href="sobre-nos.html" class="sobre-nos">Sobre Nós</a>
+    </header>
+
+  <section class="content">
+
+    <div class="contato1">
+      <h3>Formulário de Contato</h3>
+      <form class="form" method="post" action="./email.php">
+        <input class="campo" name="nome" placeholder="Nome">
+        <input class="campo" name="email" placeholder="E-mail">
+        <textarea class="campo" name="mensagem" placeholder="Digite sua mensagem aqui."></textarea>
+        <input class="campo" type="button" value="Enviar" onclick="exibeAlert()" />
+      </form>
+    </div>
+  </section>
+     
+    
+
+  <footer>
+    <h4>Endereço: <span>Praça Dom Pedro II, 75 - Centro, Indaiatuba - SP, 13330-080</span></h4>
+    <h5>Central de ajuda: +55 65 889545896</h5>
+    <div class="redes-sociais">
+      <a href="https://www.facebook.com/" target="_blank"><img src="assets/facebook.png" alt="Facebook"></a>
+      <a href="https://www.instagram.com/" target="_blank"><img src="assets/instagram.png" alt="Instagram"></a>
+      <a href="https://www.youtube.com/" target="_blank"><img src="assets/youtube.png" alt="Youtube"></a>
+    </div>
+      <p>© Copyright 2022 - 4food</p>
+  </footer>
+
+  <script>
+  
+  function exibeAlert(){
+    alert("Formulário enviado com sucesso!")
+  }
+
+</script>
+
+</body>
+</html>
